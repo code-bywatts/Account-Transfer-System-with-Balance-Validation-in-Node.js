@@ -1,0 +1,12 @@
+{
+  "name": "account-transfer-system",
+  "version": "1.0.0",
+  "description": "A Node.js and Express.js application simulating a bank account transfer system with balance validation using MongoDB.",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "body-parser": "^1.20.2"
+  }
+}
